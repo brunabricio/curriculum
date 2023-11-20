@@ -11,8 +11,6 @@ O currículo é o resultado de um projeto de pesquisa conduzido pela equipe da M
 
 Parte do nosso foco para 2023 é tornar a MDN um recurso em que as pessoas possam aprender novas habilidades, bem como procurar material de referência. Em 2019, lançamos a [Learning Area](https://developer.mozilla.org/en-US/docs/Learn) na MDN para ajudar as pessoas a aprender os conceitos básicos de desenvolvimento front-end. Com muito conteúdo útil publicado até o momento, essa parte da MDN provou ser bem-sucedida, com uma média de cerca de 10% das visualizações de página da MDN. No entanto, acreditamos que ela precisa ser complementada com orientações mais sólidas sobre o que os novos desenvolvedores de front-end devem aprender e em que ordem, para serem bem-sucedidos no setor da Web. O currículo representa um primeiro passo em direção a esse objetivo.
 
-## Target audience and purpose
-
 ## Público-alvo e propósito
 
 Acreditamos que o currículo é útil para vários grupos diferentes de pessoas, desde estudantes que desejam aprender desenvolvimento web até educadores que desejam organizar cursos para ensiná-lo. Acesse a [curriculum introduction](/curriculum) para ler mais sobre seu público-alvo e propósito.
