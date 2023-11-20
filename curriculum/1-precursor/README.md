@@ -1,12 +1,12 @@
-# Precursor knowledge
+# Conhecimento precursor
 
-The topics outlined in this section are not web development topics, but they do constitute useful topics for anyone wanting to learn front-end web development to have an understanding of. We don't want to attempt to enforce all these topics as required learning before moving on to the core sections, hence we haven't used the word "prerequisite". However, we believe students will have an easier time if they spend some time on these topics first.
+Os tópicos descritos nesta seção não são tópicos de desenvolvimento web, mas constituem tópicos úteis para qualquer pessoa que queira aprender desenvolvimento web front-end. Não queremos tentar impor todos esses tópicos como aprendizado obrigatório antes de passar para as seções principais, por isso não usamos a palavra “pré-requisito”. No entanto, acreditamos que os alunos terão mais facilidade se dedicarem algum tempo a esses tópicos primeiro.
 
-## Section contents
+## Conteúdo da seção
 
-- [Recommended soft skills](/curriculum/1-precursor/1-soft-skills.md): Recommendations of soft skills that students can aim to get better at while learning web development, and which constitute good traits to have when entering the industry
-- [Environment knowledge](/curriculum/1-precursor/2-environment.md): Recommendations for topics related to the setup and usage of the computer system that you will use to implement websites/apps.
+- [Habilidades sociais recomendadas](/curriculum/1-precursor/1-soft-skills.md): recomendações de habilidades sociais que os alunos podem melhorar enquanto aprendem desenvolvimento web e que constituem boas características para se ter ao ingressar no indústria
+- [Conhecimento ambiental](/curriculum/1-precursor/2-environment.md): Recomendações de tópicos relacionados à configuração e uso do sistema computacional que você usará para implementar sites/aplicativos.
 
 ---
 
-[Previous: Introduction](/curriculum) | [Next: Recommended soft skills](/curriculum/1-precursor/1-soft-skills.md) | [Table of contents](/TOC.md)
+[Anterior: Introdução](/curriculum) | [Próximo: Habilidades interpessoais recomendadas](/curriculum/1-precursor/1-soft-skills.md) | [Índice](/TOC.md)
