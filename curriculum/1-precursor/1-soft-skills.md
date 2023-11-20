@@ -1,20 +1,20 @@
-# Recommended soft skills
+# Habilidades interpessoais recomendadas
 
-This section provides recommendations of soft skills that students can aim to get better at while learning web development, and which constitute good traits to have when entering the industry. Including these skills in a course is not required to conform to the curriculum, but they will help immensely in developing the right attitudes for learning, researching, and collaborating, and increase the chances of getting hired.
+Esta seção fornece recomendações de habilidades interpessoais que os alunos podem buscar melhorar enquanto aprendem desenvolvimento web e que constituem boas características para se ter ao entrar no setor. A inclusão dessas habilidades em um curso não é obrigatória para estar em conformidade com o currículo, mas elas ajudarão imensamente no desenvolvimento das atitudes corretas para aprender, pesquisar e colaborar, além de aumentar as chances de contratação.
 
-## Constant learning mindset
+### Mentalidade de aprendizagem constante
 
-Students should get into the mindset of constant learning. The web is constantly evolving and technologies and trends are always changing, and they need to constantly update their knowledge to keep up.
+Os alunos devem adotar a mentalidade de aprendizado constante. A web está em constante evolução e as tecnologias e tendências estão sempre mudando. Sendo assim, precisam renovar constantemente seus conhecimentos para se manterem atualizados.
 
-- Get into the habit of regularly reading technical news, blogs, and browser release notes
+- Adquira o hábito de ler regularmente notícias técnicas, blogs e notas de versão do navegador
 
-- Engage in reading tasks or small research projects semi-regularly
+- Envolva-se em tarefas de leitura ou pequenos projetos de pesquisa semi-regularmente
 
-- Set aside specific learning time to spend on acquiring new skills
+- Reserve um tempo de aprendizagem específico para gastar na aquisição de novas habilidades
 
-- Be curious
+- Seja curioso
 
-Recommended news and information sites are:
+Os sites de notícias e informações recomendados são:
 
 - [MDN](https://developer.mozilla.org)
 
@@ -30,49 +30,49 @@ Recommended news and information sites are:
 
 - [CodeCademy](https://www.codecademy.com/)
 
-## Open to embracing failure
+## Aberto para abraçar o fracasso
 
-A very common issue that causes students and new developers to shy away from experimentation and taking risks (for example when starting new projects or exploring new ideas) is fear of failure. Spend some time learning about the value that can be gleaned from making mistakes, and the lessons that can be learned and applied in the future in similar situations.
+Um problema muito comum que faz com que estudantes e novos desenvolvedores evitem experimentar e correr riscos (por exemplo, ao iniciar novos projetos ou explorar novas ideias) é o medo do fracasso. Passe algum tempo aprendendo sobre o valor que pode ser obtido ao cometer erros e as lições que podem ser aprendidas e aplicadas no futuro em situações semelhantes.
 
-Here are some tips to improve this skill:
+Aqui estão algumas dicas para melhorar essa habilidade:
 
-- Define a safe space/peer group where people are free to ask questions and failure will not be judged harshly.
+- Defina um espaço/grupo de pares seguro onde as pessoas sejam livres para fazer perguntas e as falhas não serão julgadas com severidade.
 
-- Look to your local community and try to find meetup groups with people who can either give you help and advice or are facing the same issues you are and can provide moral support or experiment together with you.
+- Consulte a sua comunidade local e tente encontrar grupos de encontro com pessoas que possam lhe dar ajuda e conselhos ou que estejam enfrentando os mesmos problemas que você e que possam fornecer apoio moral ou fazer experiências com você.
 
-- (For educators) Set up the marking schemes for your assessments so that you can still get a reasonable number of marks even if you didn't get the correct end result, provided the process is well documented. Award extra marks for innovation.
+- (Para educadores) Configure os esquemas de notas para suas avaliações para que você ainda possa obter um número razoável de notas, mesmo que não tenha obtido o resultado final correto, desde que o processo esteja bem documentado. Conceda notas extras à inovação.
 
-- Run show 'n' tell or one-on-one sessions part-way through a project with peers and mentors to get feedback and insights into where you are going wrong, and get advice on how to get back on the right path.
+- Realize sessões de demonstração ou individuais no meio de um projeto com colegas e mentores para obter feedback e insights sobre onde você está errando e obter conselhos sobre como voltar ao caminho certo.
 
-- Run retrospective meetings to analyze projects, look at what didn't go so well, and talk about how to improve things for the next time.
+- Faça reuniões retrospectivas para analisar projetos, ver o que não deu tão certo e conversar sobre como melhorar para a próxima vez.
 
-## Effective searching for help/answers
+## Pesquisa eficaz de ajuda/respostas
 
-Web developers spend a lot of time searching for solutions to problems encountered in their work. Students should learn effective strategies for finding answers, and when to use which methods (e.g. don't jump straight to pestering the senior dev every time you hit a roadblock).
+Os desenvolvedores Web gastam muito tempo procurando soluções para problemas encontrados em seu trabalho. Os alunos devem aprender estratégias eficazes para encontrar respostas e quando usar quais métodos (por exemplo, não ir direto para importunar o desenvolvedor sênior toda vez que encontrar um obstáculo).
 
-These strategies include:
+Essas estratégias incluem:
 
-- Consulting the documentation
+- Consulta à documentação
 
-  - When you are stuck with using a tool/product, consult the official documentation first. It is surprising how many people do not think to do this; official docs are often geared towards beginners, so people with experience may not think of them as being suitable for them.
+   - Quando você não conseguir usar uma ferramenta/produto, consulte primeiro a documentação oficial. É surpreendente quantas pessoas não pensam em fazer isto; os documentos oficiais geralmente são voltados para iniciantes, então pessoas com experiência podem não considerá-los adequados para eles.
 
-  - Learn about different [types of documentation](https://documentation.divio.com/) — for example, tutorials, references, and other types — and under what circumstances each type is useful.
+   - Aprenda sobre diferentes [tipos de documentação](https://documentation.divio.com/) — por exemplo, tutoriais, referências e outros tipos — e em que circunstâncias cada tipo é útil.
 
-- Using search engines effectively
+- Usar motores de busca de forma eficaz
 
-  - See [How to use search like a pro: 10 tips and tricks for Google and beyond](https://www.theguardian.com/technology/2016/jan/15/how-to-use-search-like-a-pro-10-tips-and-tricks-for-google-and-beyond).
+   - Consulte [Como usar a pesquisa como um profissional: 10 dicas e truques para o Google e muito mais](https://www.theguardian.com/technology/2016/jan/15/how-to-use-search-like-a -pro-10-dicas-e-truques-para-google-e-além).
 
-- Choosing valid information sources
+- Escolha de fontes de informação válidas
 
-  - Choose recommended sites, such as [Stack Overflow](https://stackoverflow.com/) and [MDN](https://developer.mozilla.org).
+   - Escolha sites recomendados, como [Stack Overflow](https://stackoverflow.com/) e [MDN](https://developer.mozilla.org).
 
-  - Check the dates on articles, and consider whether the techniques discussed are out-of-date. For example, does an article on CSS layout talk about modern approaches like grid and flexbox, or does it still present obsolete techniques like multicolumn layouts with floats? Does it still talk about really out-of-date topics like hacks for deprecated browsers like Internet Explorer or Netscape 4?
+   - Verifique as datas dos artigos e considere se as técnicas discutidas estão desatualizadas. Por exemplo, um artigo sobre layout CSS fala sobre abordagens modernas como grid e flexbox, ou ainda apresenta técnicas obsoletas como layouts multicolunas com floats? Ainda fala sobre tópicos realmente desatualizados, como hacks para navegadores obsoletos como o Internet Explorer ou o Netscape 4?
 
-- Using social media effectively
+- Utilizar as redes sociais de forma eficaz
 
-  - Build a network of folks that can help
+   - Construa uma rede de pessoas que podem ajudar
 
-  - Join community groups where you can look for answers. For example:
+   - Junte-se a grupos comunitários onde você pode procurar respostas. Por exemplo:
 
     - [The MDN Web Docs community](https://discord.gg/apa6Rn7uEj) on Discord
 
@@ -84,146 +84,164 @@ These strategies include:
 
     - [Dev.to](https://dev.to/)
 
-  - Learn to give back as well as take; web developers that reciprocate are much more likely to build strong relationships and keep getting help.
+    - Aprenda a retribuir e também a receber; os desenvolvedores da web que retribuem têm muito mais probabilidade de construir relacionamentos sólidos e continuar recebendo ajuda.
 
-  - When you find a useful answer, write about it. For example, blog about it or share it on a social network. Not only will the process of writing clarify the concepts to you, but you'll also get validation and/or feedback from the community. It would also help you to start making a name for yourself in the industry.
+   - Quando encontrar uma resposta útil, escreva sobre ela. Por exemplo, faça um blog sobre isso ou compartilhe-o em uma rede social. O processo de escrita não apenas esclarecerá os conceitos para você, mas você também receberá validação e/ou feedback da comunidade. Também ajudaria você a começar a se destacar no setor.
 
-- Making effective use of an experienced contact's time
+    - Fazer uso eficaz do tempo de um contato experiente
 
-  - By "experienced contact", we mean a teacher, mentor, or senior developer.
+   - Por “contato experiente” queremos dizer um professor, mentor ou desenvolvedor sênior.
 
-  - Ask them what communication methods they prefer.
+   - Pergunte quais métodos de comunicação eles preferem.
 
-  - Think carefully about what questions to ask them beforehand, consider their time limited and precious.
+   - Pense bem sobre quais perguntas fazer antes, considere seu tempo limitado e precioso.
 
-  - Be sure to do some background research about the topic beforehand and don't ask questions that you can find answers to by searching on the web or the official documentation.
+   - Certifique-se de fazer alguma pesquisa básica sobre o tópico com antecedência e não faça perguntas para as quais você possa encontrar respostas pesquisando na web ou na documentação oficial.
 
-  - Timebox the session to say 30 minutes.
+   - Timebox da sessão para dizer 30 minutos.
 
-  - Prioritize your issues.
+   - Priorize seus problemas.
 
-  - Set a goal for the session, for example, "try to find a solution to the highest priority issue"; solving the biggest issue may also lead to a fix for other issues.
+   - Estabeleça uma meta para a sessão, por exemplo, “tentar encontrar uma solução para o problema de maior prioridade”; resolver o maior problema também pode levar à solução de outros problemas.
+- [Rubber ducking](https://wikipedia.org/wiki/Rubber_duck_debugging) como um mecanismo de ajuda eficaz (veja também [https://rubberduckdebugging.com/](https://rubberduckdebugging.com/)).
 
-- [Rubber ducking](https://wikipedia.org/wiki/Rubber_duck_debugging) as an effective help mechanism (see also [https://rubberduckdebugging.com/](https://rubberduckdebugging.com/)).
+- Usar IA para ajudar com problemas de codificação (por exemplo, [ChatGPT](https://openai.com/blog/chatgpt) ou [GitHub Copilot](https://resources.github.com/copilot-for-business/) ). Você deve usar as ferramentas de IA com cautela e familiarizar-se com seus pontos fortes e fracos.
 
-- Using AI to help with coding issues (for example [ChatGPT](https://openai.com/blog/chatgpt) or [GitHub Copilot](https://resources.github.com/copilot-for-business/)). You should use AI tools with caution, and familiarize yourself with their strengths and weaknesses.
+   - Do lado positivo, eles podem acelerar enormemente as pesquisas/pesquisas e ajudar na estruturação do código e da cópia.
 
-  - On the plus side, they can speed up research/searches enormously, and help with structuring code and copy.
+   - Por outro lado, as ferramentas de IA não possuem capacidades de raciocínio e frequentemente fornecem respostas enganosas ou simplesmente erradas. Você não deve apenas presumir que as respostas da IA ​​estão corretas e testá-las/verificá-las com outras fontes.
 
-  - On the other hand, AI tools have no reasoning skills and frequently provide answers that are misleading or just plain wrong. You shouldn't just assume that AI answers are correct, and test them/verify them with other sources.
+- Veja também [Aprendendo e obtendo ajuda](https://developer.mozilla.org/docs/Learn/Learning_and_getting_help) no MDN
 
-- See also [Learning and getting help](https://developer.mozilla.org/docs/Learn/Learning_and_getting_help) on MDN
+> **Observação:** Há definitivamente um equilíbrio em saber o momento certo para pedir ajuda. Os desenvolvedores da Web não devem incomodar constantemente seus colegas/colegas, mas igualmente, eles não devem seguir em frente e fingir que sabem o que estão fazendo quando não sabem. Considere o valor de dizer “não sei” na hora certa.
+## Colaborando e trabalhando em equipe
 
-> **Note:** There is definitely a balance to knowing the right time to ask for help. Web developers shouldn't constantly pester their peers/colleagues, but equally, they shouldn't soldier on and pretend they know what they are doing when they don't. Consider the value of saying "I don't know" at the right time.
+Como profissional da indústria da web, você terá que trabalhar com outras pessoas, em projetos e durante o brainstorming de ideias e propostas. Nem todo mundo nasce com uma capacidade inata de trabalhar em equipe, então seria benéfico começar a incorporar essas práticas recomendadas desde o início e trabalhar nas áreas que você acha que estão faltando.
 
-## Collaborating and working in a team
+Recomendações:
 
-As a professional in the web industry, you are going to have to work with other people, on projects, and while brainstorming ideas and proposals. Not everyone is born with an innate ability to work in a team, so it would be beneficial to start incorporating these best practices early on and putting some work into areas where you think you are lacking.
+- Aprenda sobre empatia, humildade, resolução de conflitos e cooperação. Em todos os compromissos, seja educado e respeitoso e não use linguagem ofensiva.
 
-Recommendations:
+- Ao trabalhar em equipe no mundo real, espera-se que você frequentemente faça avaliações por pares. Pratique como fornecer feedback de forma construtiva e respeitosa. Ao receber feedback, pratique como não levar para o lado pessoal, mas como focar nos aspectos positivos e no que você pode aprender.
 
-- Learn about empathy, humility, conflict resolution, and cooperation. In all engagements, stay polite and respectful and do not use offensive language.
+- Participe de programação em pares ou trabalhe em equipes em avaliações para ter experiência de trabalho com outras pessoas.
 
-- While working in a team in the real world, you will frequently be expected to do peer reviews. Practice how to deliver feedback constructively and respectfully. While receiving feedback, practice how to not take it personally, but to focus on the positives and what you can learn.
+- Pratique a execução de projetos como um projeto de software real, com cronograma, plano e responsabilidades. Aprenda sobre o ciclo de vida de desenvolvimento de software. Adquira algumas habilidades e ferramentas básicas de planejamento de projetos para poder estimar e planejar seu trabalho/projeto.
 
-- Participate in pair programming, or work in teams on assessments to experience working with other people.
+- Como parte do curso, crie um blog sobre seu trabalho, aprendizados e obstáculos, compartilhe seus repositórios de código, faça com que colegas critiquem seu trabalho e ofereça atualizações para corrigir problemas no trabalho de outras pessoas.
 
-- Practice running projects like a real software project, with a timeline, plan, and responsibilities. Learn about the software development lifecycle. Pick up some basic project planning skills and tools to be able to estimate and plan your work/project.
+- Participe de um canal do Slack, Discord ou espaço semelhante, peça ajuda a colegas, compartilhe recursos e discuta o trabalho a ser feito (por exemplo, consulte o Discord [Desenvolvedores Frontend](https://discord.me/frontenddevelopers) servidor).
 
-- As part of the course, blog about your work, learnings, and roadblocks, share your code repositories, get peers to critique your work, and offer updates to fix issues in other people's work.
+- Pratique fazer e responder perguntas. Mesmo que pareçam um tanto triviais, sempre faça uma ou duas perguntas ao discutir ou revisar o trabalho dos colegas. É essencial praticar explicar o que você está fazendo e fazer as perguntas certas para descobrir o que você precisa saber.
 
-- Join a Slack channel, Discord, or a similar space, ask peers for help, share resources, and discuss the work to be done (for example, see the [Frontend Developers](https://discord.me/frontenddevelopers) Discord server).
+- Ajudem-se uns aos outros, em vez de, por exemplo, esperar que um professor apareça e ajude todos numa situação de sala de aula. Os alunos menos capazes obterão ajuda mais rapidamente, e os alunos mais capazes se tornarão mentores e sentirão a satisfação que isso traz.
 
-- Practice asking and answering questions. Even if they seem somewhat trivial, always come up with one or two questions to ask when discussing or reviewing peer work. Getting practice with explaining what you are doing and asking the right questions to find out what you need to know are essential.
+- Observe e aprenda com outras pessoas experientes como participar de discussões e também como abordar a resolução/depuração de problemas.
 
-- Help each other, rather than, for example, waiting for a teacher to come around and help everyone in a classroom situation. The less able students will get help more quickly, and the more able students will become mentors and experience the satisfaction that it brings.
+- Participe de um projeto de código aberto para praticar as habilidades que você aprendeu, interagir com pessoas da comunidade e aprender observando outras pessoas (consulte [Como contribuir para projetos de código aberto – Guia para iniciantes](https://www.freecodecamp. org/news/how-to-contribute-to-open-source-projects-beginners-guide/) para obter informações úteis).
+## Indo bem em uma entrevista técnica de emprego
 
-- Observe and learn from other experienced folks how to engage in discussions as well as how to approach problem-solving/debugging.
+As entrevistas técnicas de emprego podem ser muito exigentes e algumas têm requisitos bastante específicos.
 
-- Join an open-source project to practice the skills you learn, engage with folks in the community, and learn from observing others (see [How to Contribute to Open Source Projects – A Beginner's Guide](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/) for useful information).
+Recomendações:
 
-## Doing well in a technical job interview
+- Aprenda estratégias eficazes para procura de emprego. Por exemplo:
 
-Technical job interviews can be very demanding, and some have quite specific requirements.
+- Participar de eventos de networking e feiras de emprego para conhecer potenciais empregadores
 
-Recommendations:
+- Mantenha um inventário das pessoas que você conhece e das empresas às quais você se candidata
 
-- Learn effective strategies for job searching. For example:
+- Acompanhe todos os leads promissores que você encontrar
 
-  - Attend networking events and job fairs to meet potential employers
+- Crie um portfólio
 
-  - Keep an inventory of the people you meet and the companies you apply to
+- Construa o currículo perfeito
 
-  - Follow up with any promising leads you meet
+- Obter experiência
 
-- Create a portfolio
+- Construa projetos reais
 
-- Build the perfect resumé
+- Contribua para o código aberto
 
-- Get experience
+- Construa sua personalidade online
 
-  - Build real projects
+- Use sites como o [LinkedIn](https://www.linkedin.com) para ajudar com as questões acima
 
-  - Contribute to open source
+- Pratique codificação, design e perguntas completas da entrevista
 
-- Build your online persona
+- Crie uma coleção de anedotas para usar em perguntas baseadas na experiência
 
-- Use sites like [LinkedIn](https://www.linkedin.com) to help with the above
+- Esteja ciente dos atributos que os gerentes de contratação procuram em um candidato e prepare-se adequadamente
 
-- Practice coding, design, and back-of-the-envelope interview questions
+- Alguém com quem eles possam se dar bem
 
-- Build a collection of anecdotes to use for experience-based questions
+- Atitude positiva, respeitosa, empática, construtiva
 
-- Be aware of the attributes that hiring managers look for in a candidate and prepare accordingly
+- Mente aberta, trabalha bem em uma equipe diversificada com diversos pontos de vista
 
-  - Someone they can get along with
+- Gracioso quando uma decisão não sai do seu jeito, capaz de se alinhar para um bem maior
 
-  - Positive attitude, respectful, empathic, constructive
+- Bom comunicador e construtor de relacionamentos
 
-  - Open-minded, works well in a diverse team with diverse viewpoints
+- Tenaz, focado e bom solucionador de problemas
 
-  - Graceful when a decision does not go their way, able to align for the greater good
+- Bom portfólio
 
-  - Good communicator and relationship builder
+- Ser paciente. Mesmo os melhores candidatos serão rejeitados em vários pedidos de emprego antes de conseguirem o emprego que desejam.
 
-  - Tenacious, focused, good problem solver
+## Familiaridade com fluxos de trabalho e processos
 
-  - Good portfolio
+Um aspecto importante dos projetos técnicos que os iniciantes muitas vezes perdem é uma ideia do panorama geral – eles podem aprender uma ferramenta ou idioma individual, mas não estar cientes de todas as outras peças do quebra-cabeça e das diferentes funções de trabalho que andam juntas para entregar um aplicativo da web inteiro. É útil compreender o seguinte em alto nível:
 
-- Be patient. Even the best candidates will get rejections from multiple job applications before they land the job they want.
+- Combinações típicas de tecnologia e arquiteturas de aplicações em projetos web comuns
 
-## Familiarity with workflows and processes
+- Processos típicos de um projeto técnico, inclusive onde diferentes ferramentas são utilizadas nesses processos
 
-An important aspect of technical projects that beginners often miss out on is an idea of the bigger picture — they might learn an individual tool or language, but not be aware of all the other pieces of the puzzle, and different job roles, that go together to deliver an entire web application. It is useful to understand the following at a high level:
+- Funções de trabalho típicas e onde estão envolvidos nesses processos
 
-- Typical technology combinations and application architectures in common web projects
+- Estilos comuns de gerenciamento de trabalho, como ágil e cascata
+## Captação de informações contextuais relevantes
 
-- Typical processes for a technical project, including where different tools are used in those processes
+Embora não seja essencial para a compreensão dos tópicos técnicos listados no currículo, há uma série de informações contextuais que podem ajudar a obter uma perspectiva abrangente e flexível.
 
-- Typical job roles, and where they are involved in those processes
+Recomendações:
 
-- Common work management styles, such as agile and waterfall
+   - Para compreender porque é que as coisas são como são, estude o contexto histórico relevante. Por exemplo
 
-## Grasp of relevant contextual information
+   - Por que a web foi projetada dessa forma em termos de entrega de dados quando existem mecanismos indiscutivelmente mais rápidos?
 
-While not essential for understanding the technical topics listed in the curriculum, there is a range of contextual information that can help gain a well-rounded and flexible perspective.
+   - Por que a web utiliza um modelo de documento com links como recurso central quando hoje em dia é amplamente utilizado para construir aplicativos?
 
-Recommendations:
+   - Por que os padrões web são criados como são, em colaboração, quando o processo não é necessariamente tão eficiente quanto poderia ser?
 
-- To understand why things are the way they are, study the relevant historical context. For example
+   - Estudar conceitos gerais de programação quando relevante, por exemplo:
 
-  - Why was the web designed like it is in terms of data delivery when arguably faster mechanisms exist?
+   - A finalidade dos objetos e o que eles permitem em termos de design de uma linguagem como JavaScript e suas APIs vizinhas.
 
-  - Why does the web use a document model with links as a central feature when these days it is largely used to build apps?
-
-  - Why are the web standards created like they are, in collaboration, when the process isn't necessarily as efficient as it could be?
-
-- Study general programming concepts where relevant, for example:
-
-  - The purpose of objects, and what they enable in terms of the design of a language like JavaScript and its surrounding APIs.
-
-  - How loops work and why they are needed.
+   - Como funcionam os loops e por que são necessários.
 
 ---
 
-[Previous: Precursor knowledge](/curriculum/1-precursor) | [Next: Environment knowledge](/curriculum/1-precursor/2-environment.md) | [Table of contents](/TOC.md)
+## Captação de informações contextuais relevantes
+
+Embora não seja essencial para a compreensão dos tópicos técnicos listados no currículo, há uma série de informações contextuais que podem ajudar a obter uma perspectiva abrangente e flexível.
+
+Recomendações:
+
+  - Para compreender porque é que as coisas são como são, estude o contexto histórico relevante. Por exemplo
+
+   - Por que a web foi projetada dessa forma em termos de entrega de dados quando existem mecanismos indiscutivelmente mais rápidos?
+
+   - Por que a web utiliza um modelo de documento com links como recurso central quando hoje em dia é amplamente utilizado para construir aplicativos?
+
+   - Por que os padrões web são criados como são, em colaboração, quando o processo não é necessariamente tão eficiente quanto poderia ser?
+
+  - Estudar conceitos gerais de programação quando relevante, por exemplo:
+
+   - A finalidade dos objetos e o que eles permitem em termos de design de uma linguagem como JavaScript e suas APIs vizinhas.
+
+   - Como funcionam os loops e por que são necessários.
+
+---
+
+[Anterior: Conhecimento precursor](/curriculum/1-precursor) | [Próximo: Conhecimento ambiental](/curriculum/1-precursor/2-environment.md) | [Índice](/TOC.md)
