@@ -1,33 +1,36 @@
-# Welcome to the MDN front-end developer curriculum
+# Bem-vindo ao currículo de desenvolvedor front-end MDN
 
-The MDN front-end developer curriculum is intended to provide an up-to-date industry recommendation for the key fundamental skills and knowledge that a front-end web developer should have, including the mindset and attitude required for securing a job and for long-term success in this field. This repository has been created to give the web community an understanding of the curriculum's purpose and target audience, an early preview of its content, and a chance to give [feedback](#providing-feedback) on it. Please let us know what you think!
+O currículo de desenvolvedor front-end da MDN tem como objetivo fornecer uma recomendação atualizada do setor para as principais habilidades e conhecimentos fundamentais que um desenvolvedor web front-end deve ter, incluindo a mentalidade e a atitude necessárias para garantir um emprego e por muito tempo. sucesso a longo prazo neste campo. Este repositório foi criado para dar à comunidade da web uma compreensão do propósito e do público-alvo do currículo, uma prévia de seu conteúdo e uma chance de dar [feedback](#providing-feedback) sobre ele. Por favor deixe nos saber o que você pensa!
 
-## Rationale
+## Justificativa
 
-The curriculum is an outcome of a research project conducted by the MDN team in early 2023. We asked students, new web developers, technical hiring managers, and web education professionals about their expectations around learning front-end web development — on MDN and elsewhere. The key outcomes of this research were:
+O currículo é o resultado de um projeto de pesquisa conduzido pela equipe da MDN no início de 2023. Perguntamos a estudantes, novos desenvolvedores web, gerentes de contratação técnica e profissionais de educação web sobre suas expectativas em relação ao aprendizado de desenvolvimento web front-end - na MDN e em outros lugares. Os principais resultados dessa pesquisa foram os seguintes
 
-- Students expect more structured guidance on what topics to learn and when.
-- All groups cited a lack of "soft skills" (like teamwork, research, and critical thinking) and knowledge of best practices (such as accessibility and privacy) in potential new hires as key problems in the industry.
+- Os alunos esperam uma orientação mais estruturada sobre quais tópicos devem ser aprendidos e quando.
+- Todos os grupos citaram a falta de "habilidades interpessoais" (como trabalho em equipe, pesquisa e pensamento crítico) e o conhecimento das práticas recomendadas (como acessibilidade e privacidade) em possíveis novas contratações como os principais problemas do setor.
 
-Part of our focus for 2023 is on making MDN a resource where people can learn new skills, as well as look up reference material. Back in 2019, we launched the [Learning Area](https://developer.mozilla.org/en-US/docs/Learn) on MDN to help people learn the basics of front-end development. With a lot of useful content published to date, this part of MDN has proven to be successful — it averages around 10% of MDN page views. However, we feel that it needs to be supplemented with stronger guidance on what new front-end devs should learn, and in what order, to be successful in the web industry. The curriculum represents a first step towards this goal.
+Parte do nosso foco para 2023 é tornar a MDN um recurso em que as pessoas possam aprender novas habilidades, bem como procurar material de referência. Em 2019, lançamos a [Learning Area](https://developer.mozilla.org/en-US/docs/Learn) na MDN para ajudar as pessoas a aprender os conceitos básicos de desenvolvimento front-end. Com muito conteúdo útil publicado até o momento, essa parte da MDN provou ser bem-sucedida, com uma média de cerca de 10% das visualizações de página da MDN. No entanto, acreditamos que ela precisa ser complementada com orientações mais sólidas sobre o que os novos desenvolvedores de front-end devem aprender e em que ordem, para serem bem-sucedidos no setor da Web. O currículo representa um primeiro passo em direção a esse objetivo.
 
 ## Target audience and purpose
 
-We believe the curriculum is useful to several different groups of people, from students wanting to learn web development to educators wanting to put together courses to teach it. Head over to the [curriculum introduction](/curriculum) to read more about its target audience and purpose.
+## Público-alvo e propósito
 
-## Curriculum structure
+Acreditamos que o currículo é útil para vários grupos diferentes de pessoas, desde estudantes que desejam aprender desenvolvimento web até educadores que desejam organizar cursos para ensiná-lo. Acesse a [curriculum introduction](/curriculum) para ler mais sobre seu público-alvo e propósito.
 
-We have structured the curriculum as follows:
+## Estrutura curricular
 
-- [Precursor knowledge](/curriculum/1-precursor): Topics that are not, strictly speaking, web development topics but do constitute useful topics for anyone wanting to learn front-end web development. This includes soft skills and knowledge of a typical development environment.
-- [Core modules](/curriculum/2-core): Topics that we feel every web developer should have a good grounding in. This includes all the information they need to design and build a basic, accessible website/app that follows modern best practices, and manage and deploy their code using a tool like GitHub.
-- [Optional extension modules](/curriculum/3-extensions): These "extension" topics constitute useful additional skills to learn as web developers start to expand their knowledge and develop specialisms.
+Estruturamos o currículo da seguinte forma:
 
-Get started by heading over to the main [table of contents](TOC.md) to see a granular overview of the included topics, and start exploring the content.
+- [Conhecimento precursor](/curriculum/1-precursor): Tópicos que não são, estritamente falando, tópicos de desenvolvimento web, mas constituem tópicos úteis para quem deseja aprender desenvolvimento web front-end. Isso inclui habilidades interpessoais e conhecimento de um ambiente de desenvolvimento típico.
+- [Módulos principais](/curriculum/2-core): Tópicos nos quais achamos que todo desenvolvedor web deveria ter uma boa base. Isso inclui todas as informações necessárias para projetar e construir um site/aplicativo básico e acessível que siga o melhor da modernidade práticas e gerenciar e implantar seu código usando uma ferramenta como GitHub.
+- [Módulos de extensão opcionais](/curriculum/3-extensions): Esses tópicos de "extensão" constituem habilidades adicionais úteis para aprender à medida que os desenvolvedores web começam a expandir seus conhecimentos e desenvolver especialidades.
 
-## Providing feedback
+Comece acessando o [índice] principal (TOC.md) para ter uma visão geral granular dos tópicos incluídos e comece a explorar o conteúdo.
 
-We would love to hear your feedback regarding our curriculum. To do so, please open an issue — [leave your feedback under General feedback or Topic coverage](https://github.com/mdn/curriculum/issues/new/choose). When doing so, think about the following questions:
 
-- Does our curriculum contain all the fundamental knowledge a front-end web developer needs? If not, what topics are we missing? We are interested in high-level concerns (for example, "this whole area is missing") as well as lower-level feedback (for example, specific CSS or JavaScript topic omissions).
-- Do you think the curriculum is helpful to its key target audiences, for example, students wanting to learn front-end development and teachers wishing to create courses based on it? If not, why not?
+## Fornecendo feedback
+
+Gostaríamos muito de ouvir sua opinião sobre nosso currículo. Para fazer isso, abra um problema — [deixe seu feedback em Feedback geral ou Cobertura de tópico](https://github.com/mdn/curriculum/issues/new/choose). Ao fazer isso, pense nas seguintes questões:
+
+- Nosso currículo contém todo o conhecimento fundamental que um desenvolvedor web front-end precisa? Se não, quais tópicos estão faltando? Estamos interessados em preocupações de alto nível (por exemplo, "toda esta área está faltando"), bem como em feedback de nível inferior (por exemplo, omissões específicas de tópicos de CSS ou JavaScript).
+- Você acha que o currículo é útil para seus principais públicos-alvo, por exemplo, estudantes que desejam aprender desenvolvimento front-end e professores que desejam criar cursos baseados nele? Se não, por que não?
